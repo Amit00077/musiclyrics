@@ -1,16 +1,63 @@
 # musiclyrics_app
 
-A new Flutter project.
+A flutter app that gives information about songs using API.
 
-## Getting Started
+## Authors
 
-This project is a starting point for a Flutter application.
+- [@kAmitBaliyan](https://github.com/Amit00077)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Used API
+- Neumorphic design
+- Cross platform
+- State management using BLoC Architecture
+- Make using MVC project structure
+- Used Hive database to store liked songs data
+
+
+## Tech Used
+
+*Used:* Flutter, Firebase, Api, Hive,State Management
+
+## Screenshots
+
+<img src='https://user-images.githubusercontent.com/72244208/178569484-a86bbb48-5499-49ef-ba1f-7b497f69dfa6.png' width='250' height='510'/> 
+
+<img src='https://user-images.githubusercontent.com/72244208/178569501-9d3cbc2a-8e01-4f75-ac8a-087cd8623264.png' width='250' height='510'/> <> <img src=' https://user-images.githubusercontent.com/72244208/178569525-a9af50f3-06f0-4623-99aa-3233d46bb2e4.png' width='250' height='510'/>
+
+<img src=' https://user-images.githubusercontent.com/72244208/178569550-4b38fe1f-4abc-46d7-b3ec-d2d028ce99b5.png' width='250' height='510'/> <> <img src=' https://user-images.githubusercontent.com/72244208/178569582-3abd51bc-994e-4f24-96d4-ec8570638b1f.png' width='250' height='510'/> 
+
+<img src='https://user-images.githubusercontent.com/93006120/168332091-0b8aa864-c5e3-4710-a6ca-c6f40dcc4e23.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332065-39621d14-31f2-410f-b07b-c7fdbd2974d9.png' width='250' height='510'/> 
+
+
+## To install this app
+
+### Prerequisites
+
+You need to have *Flutter SDK* installed , if not install it from [here](https://flutter.dev/docs/get-started/install)
+
+### Installing
+
+Clone this repository, open it in an IDE and in the root directory run :
+
+`flutter pub get`
+
+then connect your emulator/simulator/physical device and run :
+
+`flutter run`
+
+<br>
+
+
+For help getting started with Flutter, view online [documentation](https://flutter.dev/docs)
+
+
+![Screenshot_1657650044](https://user-images.githubusercontent.com/72244208/178569484-a86bbb48-5499-49ef-ba1f-7b497f69dfa6.png)
+![Screenshot_1657650050](https://user-images.githubusercontent.com/72244208/178569501-9d3cbc2a-8e01-4f75-ac8a-087cd8623264.png)
+![Screenshot_1657650063](https://user-images.githubusercontent.com/72244208/178569525-a9af50f3-06f0-4623-99aa-3233d46bb2e4.png)
+
+![Screenshot_1657650087](https://user-images.githubusercontent.com/72244208/178569550-4b38fe1f-4abc-46d7-b3ec-d2d028ce99b5.png)
+![Screenshot_1657650055](https://user-images.githubusercontent.com/72244208/178569582-3abd51bc-994e-4f24-96d4-ec8570638b1f.png)
+
